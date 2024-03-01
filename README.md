@@ -65,7 +65,7 @@ four.b
 b0yfou
 b0y.fou
 ```
-# Use a firts and last name
+# Use a name and surname
 
 ```shell
 ❯ python3 NamePassGenerator.py -n b0y -s seven
