@@ -93,7 +93,7 @@ if __name__=='__main__':
         else:
             print("[😒] file does not exist...")
     elif args.name and args.surname:
-        name=args.firtsname
+        name=args.name
         surname=args.surname
         gen_with_data_user(name, surname)
 
